@@ -1,11 +1,11 @@
-# JamesRPortfolio2022
+# JamesRPortfolio2022 ##
 
 
-jamespersonalwebsite
+ ## jamespersonalwebsite ##
 
 
-Graduation Project to work on creating 
+A Year long project after Graduating in May 2021. 
 
 ## This webpage is updated on an ongoing basis thank you # #
 
-Thank you for viewing my webpage ##
+## Thank you for viewing my webpage ##
