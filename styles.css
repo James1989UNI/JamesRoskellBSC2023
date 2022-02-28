@@ -255,7 +255,7 @@ img {
 }
 
 /* ===== ABOUT =====*/
-.about__container {
+.about__container, h3, li{
   row-gap: 2rem;
   text-align: center;
 }
