@@ -1,11 +1,7 @@
-# JamesRPortfolio2022
+# JamesRPortfolio2022 ## 
 
+## Thank you for viewing my personal page ##
 
-jamespersonalwebsite
+## On going project since graduating in May 2021 ##
 
-
-Graduation Project to work on creating 
-
-## This webpage is updated on an ongoing basis thank you # #
-
-Thank you for viewing my webpage ##
+## This code base is actively updated! ## 
