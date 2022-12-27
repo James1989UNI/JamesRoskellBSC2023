@@ -61,15 +61,19 @@ ul {
 
 a {
   text-decoration: none;
+  
+}
+.alink {
+  padding-left: 20em;
 }
 p {
   text-align: center;
 }
 img {
-  max-width: 100%;
+ 
   height: auto;
   display: block;
-  align-items: center;
+  padding-left: 20%;
 }
 
 /*===== CLASS CSS ===== */
