@@ -26,6 +26,10 @@
   --z-fixed: 100;
 }
 
+.JamesRPortfolio2022-main{
+  width: 120px;
+  height: 150px;
+}
 @media screen and (min-width: 968px) {
   :root {
     --big-font-size: 3.5rem;
@@ -49,6 +53,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-image: linear-gradient(62deg, #eceef0 0%, #b0afb0 100%);
 }
 
 
@@ -64,16 +69,17 @@ a {
   
 }
 .alink {
-  padding-left: 20em;
+  padding-left: 50em;
 }
 p {
   text-align: center;
 }
 img {
- 
+  display: inline-block;
+
   height: auto;
   display: block;
-  padding-left: 20%;
+  padding-left: 40%;
 }
 
 /*===== CLASS CSS ===== */
@@ -256,7 +262,7 @@ img {
 }
 
 .button:hover {
-  box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 10px 36px rgba(216, 64, 64, 0.15);
 }
 
 /* ===== ABOUT =====*/
@@ -533,4 +539,18 @@ img {
   .home__img {
     width: 450px;
   }
+}
+.contact-details:hover {
+  transform: translateY(8px);
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 980px;
+  margin-top: 4rem;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+
 }
