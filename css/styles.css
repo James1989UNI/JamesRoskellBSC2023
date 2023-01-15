@@ -25,11 +25,21 @@
   --z-back: -10;
   --z-fixed: 100;
 }
-
+.header {
+  text-align: center;
+  color: #fff;
+  background: #999a9b;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  z-index: var(--z-fixed);
+}
+/*
 .JamesRPortfolio2022-main{
   width: 120px;
   height: 150px;
 }
+*/
 @media screen and (min-width: 968px) {
   :root {
     --big-font-size: 3.5rem;
@@ -117,15 +127,7 @@ img {
   margin-right: var(--mb-2);
 }
 
-.l-header {
-  width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: var(--z-fixed);
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
-}
+
 
 /*===== NAV =====*/
 .nav {
@@ -213,6 +215,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  width: 100%;
 }
 
 .home__title-color {
@@ -397,7 +400,7 @@ img {
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
-  padding: 2rem 0;
+  padding: 1rem 0 0 0;
 }
 
 .footer__title {
